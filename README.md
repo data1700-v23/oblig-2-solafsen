@@ -6,6 +6,8 @@ GitHub brukernavn: solafsen
 
 Github repo URL: https://github.com/data1700-v23/oblig-2-solafsen.git
 
+Screenshots: https://drive.google.com/drive/folders/1eOnVU769457FZ6trEwzLuynbtHVxy3vE?usp=share_link
+
 Fullt navn: Sylvia Olafsen
 
 Kort beskrivelse av applikasjon (5-10 setninger):
