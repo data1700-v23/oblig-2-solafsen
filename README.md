@@ -14,3 +14,6 @@ Dette er en applikasjon som la bruker legger inn bestilling (inn til serveren) f
 Den skal kunne gi bruker en varsel i form av tekst, hvis noen av input-feltene er tomme eller verdier er ugyldige. 
 Hvis alle input-feltene er fylt ut, så vil disse informasjoner blir lagret i array (inn i serveren). 
 Hvis man har lyst til å tømme arrayet, så kan man trykke på slette-knappen.
+
+Screenshots:
+https://drive.google.com/drive/folders/1eOnVU769457FZ6trEwzLuynbtHVxy3vE?usp=share_link
